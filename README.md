@@ -10,6 +10,7 @@ I'm a passionate SwiftUI and iOS app developer with a love for building intuitiv
 - Figma
 ---
 ## 🚀 Projects
+![scene 1](https://github.com/Babcster/Babcster/assets/67286700/d5d8bb58-13b6-418f-85c4-1dcf3fbd0f2f)
 
 ### [NameDays](https://apps.apple.com/gb/app/latvie%C5%A1u-v%C4%81rdadienas/id6477299991)
 The "NameDays" project is a SwiftUI-based iOS application designed to celebrate name days, a tradition in various cultures where each day of the year is associated with specific names. This app aims to keep users informed about name days, offering functionalities to enhance their experience in celebrating these special occasions.
