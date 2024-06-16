@@ -5,7 +5,7 @@ I'm a passionate SwiftUI and iOS app developer with a love for building intuitiv
 
 ## 🛠 Skills
 - SwiftUI, Swift
-- Xcode, UIKit, CoreData
+- Xcode, SwiftData
 - Git, GitHub
 - Figma
 ---
